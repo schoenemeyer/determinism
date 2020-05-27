@@ -16,3 +16,5 @@ jupyter notebook --ip 0.0.0.0 --port 8888 --allow-root
 Open the browser localhost:8888 on your local computer
 
 
+This first exercise considers the randomtf.random.set_seed function and a training of a simple convolutional network using keras (TF2)
+
