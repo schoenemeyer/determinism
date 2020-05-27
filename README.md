@@ -17,6 +17,6 @@ Open the browser localhost:8888 on your local computer
 
 
 This first exercise considers the 
-1. randomtf.random.set_seed function and  
+1. tf.random.set_seed function and  
 2. training of a simple convolutional network using keras (TF2)
 
